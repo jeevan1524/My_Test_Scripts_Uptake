@@ -5,7 +5,7 @@ Details on the softwares/tools/versions used:
 ---------------------------------------------
 Eclipse  -  Version: Indigo Service Release 2 |
 Selenium -  Version: 3.4.3 |
-Chrome   -|  Version: 59.0.3071.115 |
+Chrome   -  Version: 59.0.3071.115 |
 Python   -  Version: 2.7.3 |
 
 About the scripts for Uptake_home_page tests:
